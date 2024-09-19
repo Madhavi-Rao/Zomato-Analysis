@@ -11,22 +11,22 @@ Zomato, a leading online food delivery platform, This report presents the findin
 * Country Name
 * City
 * Address: Full address of the restaurant.
-* Locality: object - Locality where the restaurant is situated.
+* Locality: Locality where the restaurant is situated.
 * Locality Verbose: Detailed description of the locality.
 * Longitude: Longitude coordinate of the restaurant.
 * Latitude: Latitude coordinate of the restaurant.
-* Cuisines:Types of cuisines offered by the restaurant (some missing values).
-* Average Cost for two: int64 - Average cost for two people.
-* Currency: object - Currency used for pricing.
-* Has Table booking: object - Indicates if table booking is available (Yes/No).
-* Has Online delivery: object - Indicates if online delivery is available (Yes/No).
-* Is delivering now: object - Indicates if the restaurant is currently delivering (Yes/No).
+* Cuisines: Types of cuisines offered by the restaurant (some missing values).
+* Average Cost for two: Average cost for two people.
+* Currency: Currency used for pricing.
+* Has Table booking: Indicates if table booking is available (Yes/No).
+* Has Online delivery: Indicates if online delivery is available (Yes/No).
+* Is delivering now: Indicates if the restaurant is currently delivering (Yes/No).
 * Switch to order menu: Indicates if there is a switch to order menu option (Yes/No).
 * Price range: Price range category.
 * Aggregate rating: Aggregate rating of the restaurant (some missing values).
 * Rating color: Color code for the rating.
-* Rating text: object Text description of the rating.
-* Votes:  Number of votes received for the restaurant.
+* Rating text:Text description of the rating.
+* Votes:Number of votes received for the restaurant.
 
 ### Summary
 
